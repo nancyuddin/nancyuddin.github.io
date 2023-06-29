@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IBM SkillsBuild & Clicked Incident Response with a Stakeholder Skills Challenge"
+title: "IBM Skills Build & Clicked Incident Response with a Stakeholder Skills Challenge"
 
 author:
 - Nancy Uddin
