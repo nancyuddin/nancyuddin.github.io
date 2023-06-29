@@ -47,8 +47,8 @@ minima:
 # order as they should show up.
 #
 #header_pages:
-#   - about.md
-#   - Core Values.md
+   - about.md
+   - Corevalues.md
 
 # Set to `true` to show excerpts on the homepage.
 #
