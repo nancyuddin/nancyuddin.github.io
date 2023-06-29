@@ -3,7 +3,7 @@ layout: post
 title: "Documenting My Learning Process: The Trials and Tribulations of Burp Suite"
 
 author:
-Nancy Uddin
+- Nancy Uddin
 meta: "BurpSuite"
 permalink: /BurpSuite/
 ---
