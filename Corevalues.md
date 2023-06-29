@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Core Values
+title: Core Values
 permalink: /Corevalues/
 ---
 
