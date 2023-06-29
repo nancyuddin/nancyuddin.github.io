@@ -23,11 +23,11 @@ Introducing my high-quality threat report for a [mock cyber attack,](https://ski
 7. Develop a training program for all employees on best cyber hygiene practices and phishing attack awareness
 8. Take legal action if need be
 
-# Threat Report: Rockstar Games Cyber Attack
-## Executive Summary
+### Threat Report: Rockstar Games Cyber Attack
+### Executive Summary
 In response to a cyber attack on Rockstar Games' network, this threat report provides a comprehensive analysis of the incident, evaluates the risk level, and delivers actionable recommendations to improve the detection, escalation, containment, and resolution of such incidents. The report aims to assess the impact, identify the cause, and propose measures to prevent further damage. By isolating the incident and implementing appropriate security measures, Rockstar Games can mitigate risks and safeguard their sensitive information.
 
-## Incident Assessment
+### Incident Assessment
 1. Impact: The cyber attack has compromised sensitive data, including employee and customer information, posing a significant risk to privacy and confidentiality.
 2. Affected Devices: Initial investigation indicates that multiple devices across the network have been compromised, potentially exposing a wide range of systems and databases.
 3. Recommended Actions:
@@ -36,7 +36,7 @@ In response to a cyber attack on Rockstar Games' network, this threat report pro
    - Engage legal counsel to navigate the legal implications and advise on appropriate actions.
    - Initiate forensic analysis to determine the attack vector, identify vulnerabilities, and gather evidence for potential legal proceedings.
 
-## Root Causes and Indicators
+### Root Causes and Indicators
 Based on the investigation, the following issues and indicators contributed to the incident:
 
 - Insufficient network segmentation and access controls, enabling lateral movement within the network.
@@ -44,7 +44,7 @@ Based on the investigation, the following issues and indicators contributed to t
 - Lack of effective intrusion detection and prevention systems, allowing unauthorized access and activities to go undetected.
 - Potential phishing or social engineering techniques used to gain initial entry into the network.
 
-## Analysis and Remediation
+### Analysis and Remediation
 Given the findings, the following high-level overview outlines the recommended analysis and remediation steps:
 
 - Immediate Isolation: Isolate affected devices from the network to halt the attacker's activities and limit further damage.
