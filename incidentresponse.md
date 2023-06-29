@@ -9,9 +9,9 @@ permalink: /incidentresponse/
 ---
 
 
-# Introducing my high-quality threat report for a [mock cyber attack,](https://skillsbuild.clicked.com/experiences/incident-response-with-stakeholders-shadow-session-february-15/) effectively evaluating risk level and delivering recommendations and actions to improve the detection, escalation, containment, and resolution of incidents.
+Introducing my high-quality threat report for a [mock cyber attack,](https://skillsbuild.clicked.com/experiences/incident-response-with-stakeholders-shadow-session-february-15/) effectively evaluating risk level and delivering recommendations and actions to improve the detection, escalation, containment, and resolution of incidents.
 
-# General Steps on Producing an Incident Response
+### General Steps on Producing an Incident Response
 1. Identify risk and outline the details
     - Learn who was impacted and how by reviewing logs and talking to client and those directly impacted by attack
 2. Categorize 
