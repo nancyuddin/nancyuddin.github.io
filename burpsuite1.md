@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "Documenting My Learning Process: The Trials and Tribulations of Burp Suite"
 
 author:
