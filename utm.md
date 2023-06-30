@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: "UTM Security Lab"
 
 author:
