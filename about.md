@@ -12,7 +12,7 @@ Nancy Uddin is a thought leader, researcher, and lifelong learner currently work
 
 She is a cybersecurity specialist seeking to lead high-impact business and cyber defense strategies to cultivate a secure and equitable cyber experience for everyone, including those harmed by digital poverty. Nancy is part of a larger mission to close the tech gap to promote a competitive landscape in technological growth and innovation. 
 
-Listen to a segment of Nancy's panel at SI Her, a non-profit focused on diversity, equity, and financial inclusion in web3, on the value of integrating DEI and accessibility principles into the emerging technology field. 
+Listen to a segment of Nancy's panel at SI Her, a non-profit focused on diversity, equity, and financial inclusion in web3, on the value of integrating DEI and accessibility principles into the emerging technology field now.  
 
 [SI Her](<iframe title="vimeo-player" src="https://player.vimeo.com/video/844035572?h=deddbdaca2" width="640" height="360" frameborder="0"    allowfullscreen></iframe>)
   
