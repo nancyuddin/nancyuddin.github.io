@@ -14,7 +14,7 @@ theme: minima
 
 plugins:
   #- jekyll-feed
-  - jekyll-seo-tag
+  #- jekyll-seo-tag
 
 # Theme-specific settings
 
@@ -47,11 +47,11 @@ minima:
 # order as they should show up.
 #
 
-```yaml
-header_pages:
-   - about.md
-   - Corevalues.md
-```
+#```yaml
+#header_pages:
+ #  - about.md
+ #  - Corevalues.md
+#```
 
 
 # Set to `true` to show excerpts on the homepage.
