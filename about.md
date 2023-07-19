@@ -10,7 +10,7 @@ permalink: /about/
 Nancy Uddin is a thought leader, researcher, and lifelong learner currently working on cloud platform fundamentals and cyber defense. With over six years of experience in technical writing, creative, and production roles, she has collaborated with renowned stakeholders such as Vogue, HuffPost, and Medium, reaching an audience of over 8 million worldwide. 
 
 
-She is a cybersecurity specialist seeking to lead high-impact business and cyber defense strategies to cultivate a secure and equitable cyber experience for everyone, including those harmed by digital poverty. Nancy is part of a larger mission to close the tech gap to promote a competitive landscape in technological growth and innovation. 
+She is a cybersecurity specialist seeking to lead high-impact business and cyber defense strategies to cultivate a secure and equitable cyber experience for everyone, including those harmed by digital poverty. Nancy graduated from New York University and gained technical training at The Knowledge House. She is part of a larger mission to close the tech gap to promote a competitive landscape in technological growth and innovation. 
 
 <br><br> 
 Listen to a segment of Nancy's panel at SI Her, a non-profit focused on diversity, equity, and financial inclusion in web3, on the value of integrating DEI and accessibility principles into the emerging technology field.  
