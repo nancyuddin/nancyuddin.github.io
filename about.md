@@ -16,7 +16,7 @@ She is a cybersecurity specialist seeking to lead high-impact business and cyber
 Listen to a segment of Nancy's panel at SI Her, a non-profit focused on diversity, equity, and financial inclusion in web3, on the value of integrating DEI and accessibility principles into the emerging technology field.  
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/844035572?h=deddbdaca2" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-<img width="51" alt="Screenshot 2023-07-19 at 3 01 07 PM" 
+
 
   
 <h3 align="left">Connect with Nancy:</h3>
