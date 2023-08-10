@@ -19,7 +19,7 @@ Listen to a segment of Nancy's panel at SI Her, a non-profit focused on diversit
 
 
 <h3 align="left">Certifications:</h3>
-<p align="left"> <a href="https://www.credly.com/users/nancy-uddin.def41742" <img width="383" alt="Screenshot 2023-08-10 at 10 45 06 AM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/ae7199ec-b82c-41f3-92c5-a734edb48078"> height="30" width="40" /></a>
+<p align="left"> <a href="https://www.credly.com/users/nancy-uddin.def41742" target="blank"><img align="center" alt="Screenshot 2023-08-10 at 10 45 06 AM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/ae7199ec-b82c-41f3-92c5-a734edb48078" height="30" width="40" /></a>
 <h3 align="left">Connect with Nancy:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nancy-uddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nancy-uddin/" height="30" width="40" /></a>
