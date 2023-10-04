@@ -26,10 +26,10 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
   <br/>
 2. Assign an Elastic IP so the IP address is static and the DNS server knows where the website is hosted.
 <img width="805" alt="Screenshot 2023-10-04 at 2 04 14 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/bcbaa8f0-d62b-43d4-898b-8c4d07eda440">
-</br>
+<br/>
 3. Associate the Elastic IP to the EC2 instance.
    <img width="806" alt="Screenshot 2023-10-04 at 2 17 00 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/d4e438b5-45a6-4510-8017-ac5b102c1dd3">
-</br>
+<br/>
 
 #### Install and configure a web server and database management system
 
