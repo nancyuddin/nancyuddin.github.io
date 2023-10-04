@@ -40,7 +40,7 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
 <img width="823" alt="Screenshot 2023-10-04 at 2 21 55 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/529204d1-aec1-4cd2-ab73-8d38950cad12">
  <br/>
  
-5. Verify your web server by loading the Apache default page by typing in ```http/[Your Public IP address]```.
+5.) Verify your web server by loading the Apache default page by typing in ```http/[Your Public IP address]```.
 <img width="809" alt="Screenshot 2023-10-04 at 2 24 13 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/4745b172-188e-4421-b565-125218fe05d6">
  <br/>
  
