@@ -2,8 +2,7 @@
 layout: post
 title: "IBM Skills Build & Clicked Incident Response with a Stakeholder Skills Challenge"
 
-author:
-- Nancy Uddin
+
 meta: "incidentresponse"
 permalink: /incidentresponse/
 ---
