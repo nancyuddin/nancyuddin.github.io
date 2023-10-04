@@ -44,7 +44,7 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
 <img width="809" alt="Screenshot 2023-10-04 at 2 24 13 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/4745b172-188e-4421-b565-125218fe05d6">
  <br/>
  
-6. WordPress is built on PHP so install PHP runtime on the instance.
+6.) WordPress is built on PHP so install PHP runtime on the instance.
    <img width="793" alt="Screenshot 2023-10-04 at 2 25 10 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/5f4a5648-57bb-425c-ba5f-b08a439d5ea2">
     <br/>
     
