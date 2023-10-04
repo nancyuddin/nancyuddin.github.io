@@ -26,7 +26,7 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
   <br/>
   
 2. Assign an Elastic IP so the IP address is static and the DNS server knows where the website is hosted.
-  <img width="805" alt="Screenshot 2023-10-04 at 2 04 14 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/bcbaa8f0-d62b-43d4-898b-8c4d07eda440">
+    <img width="805" alt="Screenshot 2023-10-04 at 2 04 14 PM"    src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/bcbaa8f0-d62b-43d4-898b-8c4d07eda440">
 
 <br/>
 
@@ -64,6 +64,7 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
 10. Create a user other than root and create a new database. Grant privileges to the user.
     <img width="770" alt="Screenshot 2023-10-04 at 2 28 49 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/6085a207-6f5e-437b-9f79-369df76fffc4">
  <br/>
+
 #### Install WordPress
 
 11. Download WordPress file from the WordPress site and download it in Terminal with ```wget```.  
