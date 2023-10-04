@@ -18,7 +18,7 @@ LAMP stack is a popular foundation for web applications.
 **MySQL** is a relational database management system (RDBMS) that stores and manages the structured data used by web applications.
 **PHP** (Hypertext Preprocessor) is a server-side scripting language used for web development.
 
-###Launch a virtual computer with AWS
+### Launch a virtual computer with AWS
 1. Launch an EC2 instance (virtual computer on the cloud). Enable SSH, HTTPS, and HTTP.
    <img width="814" alt="Screenshot 2023-10-04 at 2 03 02 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/a0a84890-4280-4847-bb3d-f03987dc9a54">
 2. Assign an Elastic IP so the IP address is static and the DNS server knows where the website is hosted.
