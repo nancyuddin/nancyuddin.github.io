@@ -1,6 +1,6 @@
 ---
 
-title: "Create and Deploy a WordPress Website on the Cloud"
+title: "Create and Deploy a WordPress Website on AWS"
 
 author:
 - Nancy Uddin
