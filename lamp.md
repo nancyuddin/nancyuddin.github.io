@@ -20,22 +20,22 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
 
 #### Launch a virtual computer with AWS
 
-1. Launch an EC2 instance (virtual computer on the cloud). Enable SSH, HTTPS, and HTTP.
+1.) Launch an EC2 instance (virtual computer on the cloud). Enable SSH, HTTPS, and HTTP.
    <img width="814" alt="Screenshot 2023-10-04 at 2 03 02 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/a0a84890-4280-4847-bb3d-f03987dc9a54">
   
   <br/>
-2. Assign an Elastic IP so the IP address is static and the DNS server knows where the website is hosted.
+2.) Assign an Elastic IP so the IP address is static and the DNS server knows where the website is hosted.
     <img width="805" alt="Screenshot 2023-10-04 at 2 04 14 PM"    src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/bcbaa8f0-d62b-43d4-898b-8c4d07eda440">
 
 <br/>
 
-3. Associate the Elastic IP to the EC2 instance.
+3.) Associate the Elastic IP to the EC2 instance.
    <img width="806" alt="Screenshot 2023-10-04 at 2 17 00 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/d4e438b5-45a6-4510-8017-ac5b102c1dd3">
 <br/>
 
 #### Install and configure a web server and database management system
 
-4. Connect instance with SSH and install and start Apache web server to EC2 instance with ```sudo apt-get install apache2```.
+4.) Connect instance with SSH and install and start Apache web server to EC2 instance with ```sudo apt-get install apache2```.
 <img width="606" alt="Screenshot 2023-10-04 at 2 21 14 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/4b07bb63-d82b-4a2e-8c8a-5c40492f030b">
 <img width="823" alt="Screenshot 2023-10-04 at 2 21 55 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/529204d1-aec1-4cd2-ab73-8d38950cad12">
  <br/>
