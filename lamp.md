@@ -29,6 +29,7 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
 3. Associate the Elastic IP to the EC2 instance.
    <img width="806" alt="Screenshot 2023-10-04 at 2 17 00 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/d4e438b5-45a6-4510-8017-ac5b102c1dd3">
 </br>
+
 ### Install and configure a web server and database management system
 
 4. Connect instance with SSH and install and start Apache web server to EC2 instance with ```sudo apt-get install apache2```.
