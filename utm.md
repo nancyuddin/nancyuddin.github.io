@@ -1,6 +1,6 @@
 ---
 
-title: "UTM Security Lab"
+title: "My First Virtual Network Architecture"
 
 author:
 - Nancy Uddin
@@ -9,7 +9,7 @@ permalink: /utm/
 ---
 
 
-#### Introducing my security project I have built on UTM, currently undergoing updates to enhance its functionalities and features. This repository showcases the minimal viable product, serving as a foundation for further development and exploration of this network architecture.
+#### Introducing my lab diary of a security project I have built on UTM, currently undergoing updates to enhance its functionalities and features. This repository showcases the minimal viable product, serving as a foundation for further development and exploration of this network architecture.
 
 A **client-server network** is a communications model in which multiple client programs share the services of a common server program. The client sends a request and the server responds with this back-and-forth pattern while adhering to a common communications protocol, which sets the rules, language, and dialog patterns to be used. A cybersecurity approach is necessary to protect the integrity, confidentiality, and accessibility of a computer network due to growing threats that can disrupt the flow of data and business operations e.g. DoS/DDoS, viruses, worms, Trojans, on-path (man-in-the-middle) attacks, and side-channel attacks. Cybersecurity Ventures expects global cybercrime costs to increase by [15 percent per year over the next five years, reaching $10.5 trillion USD annually by 2025](https://cybersecurityventures.com/hackerpocalypse-cybercrime-report-2016/). There are many processes, tools, and configurations people can use to implement network security. 
 
