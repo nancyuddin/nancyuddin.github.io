@@ -18,11 +18,11 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
 **MySQL** is a relational database management system (RDBMS) that stores and manages the structured data used by web applications.
 **PHP** (Hypertext Preprocessor) is a server-side scripting language used for web development.
 
-### Launch a virtual computer with AWS
+#### Launch a virtual computer with AWS
 
 1. Launch an EC2 instance (virtual computer on the cloud). Enable SSH, HTTPS, and HTTP.
    <img width="814" alt="Screenshot 2023-10-04 at 2 03 02 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/a0a84890-4280-4847-bb3d-f03987dc9a54">
-  </br> 
+  </br> <br/>
 2. Assign an Elastic IP so the IP address is static and the DNS server knows where the website is hosted.
 <img width="805" alt="Screenshot 2023-10-04 at 2 04 14 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/bcbaa8f0-d62b-43d4-898b-8c4d07eda440">
 </br>
@@ -30,7 +30,7 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
    <img width="806" alt="Screenshot 2023-10-04 at 2 17 00 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/d4e438b5-45a6-4510-8017-ac5b102c1dd3">
 </br>
 
-### Install and configure a web server and database management system
+#### Install and configure a web server and database management system
 
 4. Connect instance with SSH and install and start Apache web server to EC2 instance with ```sudo apt-get install apache2```.
 <img width="606" alt="Screenshot 2023-10-04 at 2 21 14 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/4b07bb63-d82b-4a2e-8c8a-5c40492f030b">
@@ -54,7 +54,7 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
 10. Create a user other than root and create a new database. Grant privileges to the user.
     <img width="770" alt="Screenshot 2023-10-04 at 2 28 49 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/6085a207-6f5e-437b-9f79-369df76fffc4">
 </br>
-### Install WordPress
+#### Install WordPress
 
 11. Download WordPress file from the WordPress site and download it in Terminal with ```wget```.  
 <img width="799" alt="Screenshot 2023-10-04 at 2 30 59 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/b870ae0e-fe54-4d61-8451-014603b4c95c">
@@ -73,7 +73,7 @@ In this lab, I will demonstrate the steps I took to host a WordPress website wit
 15. The root path or the root directory serves the Apache to Default page. To serve Wordpress website at this root path of, modify the Apache configuration. In Terminal, ```cd etc apache 2``` and find a file that says ```000default.conf```. Open up a text editor such as nano editor and change this document root to ```/var/www/html/wordpress```. 
 <img width="812" alt="Screenshot 2023-10-04 at 2 34 47 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/b0c6418f-cfc0-4390-a31d-7e305c2dbbfb">
 </br>
-### Connect a domain name to the created site
+#### Connect a domain name to the created site
 
 16. I purchased a domain, but you can get a free one [online](https://www.forbes.com/advisor/business/free-domain-name/). Go to your domain DNS settings and add ‘A’ type record which points to your public IPV4 address. You can set the TTL to 60. 
 <img width="782" alt="Screenshot 2023-10-04 at 2 37 44 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/ce1490f1-3d17-476f-bcc0-07178218cda0">
