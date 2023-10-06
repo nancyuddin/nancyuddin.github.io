@@ -8,9 +8,7 @@ meta: "LAMP"
 permalink: /lamp/
 ---
 
-
-Hosting a web application on the cloud ensures scalability, high availability, and cost-efficiency. 
-In this lab, I will demonstrate the steps I took to host a WordPress website with a LAMP stack with AWS. AWS (Amazon Web Services) is a comprehensive and widely-used cloud computing platform offered by Amazon, providing a range of cloud services such as computing power, storage, databases, machine learning, and more to help businesses scale and innovate. 
+AWS (Amazon Web Services) is a comprehensive and widely-used cloud computing platform, providing a range of cloud services such as computing power, storage, databases, machine learning, and more to help businesses scale and innovate. Hosting a web application on the cloud ensures scalability, high availability, and cost-efficiency. In this lab, I demonstrate how to host a WordPress website, an open-source content management system, with a LAMP stack through AWS. 
 
 **LAMP stack** is a popular foundation for web applications. 
 **Linux** is the operating system (OS) on which the web server runs. 
