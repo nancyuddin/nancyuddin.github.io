@@ -74,13 +74,13 @@ Follow the steps below to learn how to launch your own VPN on AWS.
 <img width="495" alt="Screenshot 2024-02-11 at 1 55 21 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/e5bbfb05-77e7-45b6-84f9-0225fbc6a60e">
 
 
-20. You should have a working VPN!
+You should have a working VPN!
 
-<p align="left"> <img width="406" alt="Screenshot 2024-02-11 at 1 55 54 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/96b7f446-2cc2-4f03-93a6-908269af172a">
-</p>
+<img width="406" alt="Screenshot 2024-02-11 at 1 55 54 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/96b7f446-2cc2-4f03-93a6-908269af172a">
 
 
-21. To check and see if it is working, you can Google "What is my IP?". It should match with your Public IP.
+
+To check and see if it is working, you can Google "What is my IP?". It should match with your Public IP.
     
-<p align="left"> <img width="403" alt="Screenshot 2024-02-11 at 1 56 20 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/600b8a02-7b91-4585-93a7-de36d3f59c58">
-</p>
+<img width="403" alt="Screenshot 2024-02-11 at 1 56 20 PM" src="https://github.com/nancyuddin/nancyuddin.github.io/assets/119987538/600b8a02-7b91-4585-93a7-de36d3f59c58">
+
