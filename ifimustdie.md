@@ -19,8 +19,10 @@ I set up an [Apache web server on a Linux VM](https://cloud.google.com/compute/d
 Multi-factor authentication (MFA) enhances security by requiring users to provide two or more verification factors to access an account. I set up MFA In Google Cloud by enabling it in the IAM & Admin section of the Google Cloud Console and following the prompts to link a second factor, such as a mobile device, to the account for authentication. A firewall is a network security system that monitors and controls incoming and outgoing traffic based on predetermined security rules. I defined firewall rules in the VPC Network section of the Google Cloud Console to allow HTTPS/HTTP requests to and from the virtual machine instance.
 
 ## Challenges
+Initially, I wanted the CSS functionality to perform a card flipping motion, but after many trial and errors, I decided to adjust the motion so the HTML AND CSS could function effectively together. Additionally, optimizing resources while ensuring availability and performance presented me with challenges. I experimented with solutions like Google Cloud Storage to maintain instance availability while reducing costs and tinkered with configuring network load balancers. I faced extensive troubleshooting due to configuration issues or inconsistent CSS availability. 
 
-Optimizing resources while ensuring availability and performance presented me with challenges. I experimented with solutions like Google Cloud Storage to maintain instance availability while reducing costs and tinkered with configuring network load balancers. I faced extensive troubleshooting due to configuration issues or inconsistent CSS availability. 
+## Accomplishments
+I was succesfully able to release a virtual card game that promotes a cultural shift toward death consciousness. More than 50 peers and colleagues have tested "If I Must Die" in its beta phase, providing anecdotal feedback that the game has facilitated their ability to process challenging emotions and sparked conversations on previously unexplored topics.
 
 ## My Learnings
 
