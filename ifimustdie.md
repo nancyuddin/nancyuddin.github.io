@@ -8,7 +8,7 @@ meta: "ifimustdie"
 permalink: /ifimustdie/
 ---
 ## Inspiration
-I was raised in a community where discussions about death were often avoided, leaving me unprepared for the impact of my father's passing. Navigating this experience was both traumatic and cathartic because it inspired me to build *[If I Must Die,]*(http://ifmustdie.com/) a virtual death conscious web application. *If I Must Die,* aims to destigmatize conversations about grief and experiences related to dying or the loss of a loved one. The questions in the activity aim to encourage deep introspection, emotional intelligence, and meaningful conversations about death and its connection to our lives. They can prompt individuals to confront, reflect, and engage with their mortality in deliberate and innovative ways.
+I was raised in a community where discussions about death were often avoided, leaving me unprepared for the impact of my father's passing. Navigating this experience was both traumatic and cathartic because it inspired me to build *[If I Must Die,]* (http://ifmustdie.com/) a virtual death conscious web application. *If I Must Die,* aims to destigmatize conversations about grief and experiences related to dying or the loss of a loved one. The questions in the activity aim to encourage deep introspection, emotional intelligence, and meaningful conversations about death and its connection to our lives. They can prompt individuals to confront, reflect, and engage with their mortality in deliberate and innovative ways.
 
 ## Cloud Architecture Steps
 
