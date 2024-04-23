@@ -20,9 +20,9 @@ Multi-factor authentication (MFA) enhances security by requiring users to provid
 
 ## Challenges
 
-Optimizing resources while ensuring availability and performance presented me with challenges.I experimented with solutions like Google Cloud Storage to maintain instance availability while reducing costs and tinkered with configuring network load balancers. I faced extensive troubleshooting due to configuration issues or inconsistent CSS availability. 
+Optimizing resources while ensuring availability and performance presented me with challenges. I experimented with solutions like Google Cloud Storage to maintain instance availability while reducing costs and tinkered with configuring network load balancers. I faced extensive troubleshooting due to configuration issues or inconsistent CSS availability. 
 
 ## My Learnings
 
-Ultimately, using Google AI to catapult my first creative web application and enhance my cloud computing skills has shown me AI’s potential to close the tech gap. It has become not so much how much you know, but how much you can learn with new technologies, the open source community, and the process of troubleshooting with persistence and care. I am excited to unveil a minimum viable product; as I iterate and evolve, I envision shaping *If I Must Die,* into a comprehensive death education resource for my community. 
+Ultimately, using Google AI to catapult my first creative web application and enhance my cloud computing skills has shown me AI’s potential to close the tech gap. If I do not have a teachnical skill, it is about taking initiative to learn from new technologies, the open source community, and the process of troubleshooting with persistence and care. I am excited to unveil a minimum viable product; as I iterate and evolve, I envision shaping *If I Must Die,* into a comprehensive death education resource for my community. 
 
